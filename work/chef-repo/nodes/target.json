@@ -1,0 +1,9 @@
+{
+  "run_list": [
+   "git", 
+   "apache" 
+  ],
+  "automatic": {
+    "ipaddress": "192.168.33.11"
+  }
+}
