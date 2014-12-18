@@ -1,0 +1,9 @@
+{
+  "run_list": [
+    "git",
+    "vim"
+  ],
+  "automatic": {
+    "ipaddress": "localhost"
+  }
+}
