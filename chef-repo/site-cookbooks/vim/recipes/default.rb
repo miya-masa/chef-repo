@@ -26,13 +26,13 @@ end
 
 
 ## SCM Resource, Chef::Provider::Git
-#git "/home/vagrant/dotfiles/" do # Path to clone/checkout/export the source to
-#  repository "https://github.com/miya-masa/dotfiles.git" # URI of the repository
-#  user "vagrant"
-#  group "vagrant"
-#  revision "master" # revision to checkout. can be symbolic, like "HEAD" or an SCM specific revision id
-#  action :sync # Update the source to the specified revision, or get a new clone (Default)
-#end
+git "/home/vagrant/dotfiles/" do # Path to clone/checkout/export the source to
+  repository "https://github.com/miya-masa/dotfiles.git" # URI of the repository
+  user "vagrant"
+  group "vagrant"
+  revision "master" # revision to checkout. can be symbolic, like "HEAD" or an SCM specific revision id
+  action :sync # Update the source to the specified revision, or get a new clone (Default)
+end
 #
 #bash "dotfiles.sh" do
 #  cwd "/home/vagrant/dotfiles/"
