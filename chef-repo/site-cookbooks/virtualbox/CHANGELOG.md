@@ -1,11 +1,11 @@
-hello CHANGELOG
-===============
+virtualbox CHANGELOG
+====================
 
-This file is used to list changes made in each version of the hello cookbook.
+This file is used to list changes made in each version of the virtualbox cookbook.
 
 0.1.0
 -----
-- [your_name] - Initial release of hello
+- [your_name] - Initial release of virtualbox
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.

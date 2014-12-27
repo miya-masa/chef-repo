@@ -1,11 +1,11 @@
-ruby CHANGELOG
-==============
+vagrant CHANGELOG
+=================
 
-This file is used to list changes made in each version of the ruby cookbook.
+This file is used to list changes made in each version of the vagrant cookbook.
 
 0.1.0
 -----
-- [your_name] - Initial release of ruby
+- [your_name] - Initial release of vagrant
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
